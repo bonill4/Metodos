@@ -1,0 +1,8 @@
+C:\Users\willi\source\repos\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\willi\source\repos\Metodos\bin\Debug\Metodos.exe
+C:\Users\willi\source\repos\Metodos\bin\Debug\Metodos.pdb
+C:\Users\willi\source\repos\Metodos\obj\Debug\Metodos.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Metodos\obj\Debug\Metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Metodos\obj\Debug\Metodos.exe
+C:\Users\willi\source\repos\Metodos\obj\Debug\Metodos.pdb
